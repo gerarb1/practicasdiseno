@@ -1,0 +1,2 @@
+# practicasdiseno
+repo de tareas
